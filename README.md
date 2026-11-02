@@ -150,7 +150,7 @@ The portfolio includes a resume section and downloadable resume PDF for quick ac
 
 - Email: shvinaysiddhu@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinay-sh-636a71288/
-- GitHub: https://github.com/ShViNaY/
+- GitHub: https://github.com/vinaysh-17
 - X: https://x.com/24vin_i
 
 ## 👨‍💻 About

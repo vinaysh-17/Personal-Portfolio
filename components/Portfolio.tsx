@@ -580,7 +580,7 @@ export default function Portfolio() {
               <p className="section-subtitle">Real projects demonstrating my development work.</p>
             </div>
             <a
-              href="https://github.com/ShViNaY/"
+              href="https://github.com/vinaysh-17"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-1 font-mono text-xs font-semibold text-[#121316] hover:underline"
@@ -898,7 +898,7 @@ export default function Portfolio() {
                       <Linkedin size={16} />
                     </a>
                     <a
-                      href="https://github.com/ShViNaY/"
+                      href="https://github.com/vinaysh-17"
                       target="_blank"
                       rel="noreferrer"
                       aria-label="GitHub"
